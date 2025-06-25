@@ -35,11 +35,11 @@ I'm a passionate **Full Stack Developer** from **Rwanda 🇷🇼** who loves tur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngabodaniel&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngabodaniel1000&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngabodaniel&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngabodaniel&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngabodaniel1000&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
