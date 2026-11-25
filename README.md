@@ -7,7 +7,7 @@ I'm a software developer from **Rwanda 🇷🇼**, passionate about building pra
 I work across web development, mobile applications, backend systems, and AI-powered applications. I enjoy turning ideas into functional products, from planning and development to deployment.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ngabodaniel.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngabo-daniel-thierry-3543003b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngabo-daniel-3543003b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ngabodaniel1000)
 
 ---
